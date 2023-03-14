@@ -452,8 +452,8 @@ void printCandidate() {
         }
         printf("\n");
     }
-    printf("�������ϵ�����:%lld\n", countobj);
-    printf("����convoy������Ϊ:%lld\n", count);
+    printf("%lld\n", countobj);
+    printf("%lld\n", count);
 }
 
 void pCan() {
